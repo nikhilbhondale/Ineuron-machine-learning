@@ -1,2 +1,2 @@
-# Ineuron-machine-learning
+# Machine-learning Projects
 Machine learning
